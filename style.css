@@ -7,3 +7,32 @@ background-color: cornflowerblue;
     text-align: right;
     margin-top: 10px;
 }
+.slider{
+    background-image: url(./Assets/nature1.jpg);
+    width: 1350px;
+    height: 400px;
+}.h-1{
+color: white;
+margin-top: 300px;
+
+}
+.p-2{
+color: white;
+
+}
+.p-3{
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+ margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p-4{
+width: 800px;
+text-align: center;
+margin-top: 0px;
+
+}
+
+
